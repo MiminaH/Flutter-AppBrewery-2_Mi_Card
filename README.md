@@ -12,4 +12,7 @@ New Concepts:
  - How to style Text widgets
  - How to read and use Flutter Documentation
 
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+
 ![Screenshot_1573420141](https://user-images.githubusercontent.com/42913303/68551537-91cacc80-0416-11ea-983c-1fab7ee6f6ef.png)
